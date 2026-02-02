@@ -1,0 +1,11 @@
+# ============================================
+# REQUIREMENTS FILE
+# ============================================
+# This file tells your computer which tools (libraries) to install
+# Each line is one tool that our chatbot needs to work
+
+# Streamlit - Creates the website interface
+streamlit==1.31.0
+
+# Requests - Lets our program talk to the internet
+requests==2.31.0
